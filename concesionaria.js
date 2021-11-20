@@ -71,14 +71,6 @@ autosQuePuedeComprar: function(persona){
         },
   }
   
- 
-     
-  
-     
-  
-     
-       
-  
   //console.log(concesionaria.buscarAuto("JJK116"))
   //console.log(concesionaria.buscarAuto("APL123"))
   //console.log(concesionaria.buscarAuto("APL12"))
@@ -91,4 +83,6 @@ autosQuePuedeComprar: function(persona){
   //console.log(concesionaria.listaDeVentas())
   //console.log(concesionaria.totalDeVentas())
   //console.log(concesionaria.puedeComprar(auto,persona))
+  console.log(concesionaria.autosQuePuedeComprar(persona))
+
   

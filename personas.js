@@ -7,4 +7,4 @@ let persona =  {
 
 module.exports = persona
 
-console.log(persona)
+//console.log(persona)

@@ -22,4 +22,4 @@ let autos = [{
 
     module.exports = autos;
 
-    console.log(autos)
+    //console.log(autos)
